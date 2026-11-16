@@ -10,7 +10,7 @@ A start-up release. The search flow is unchanged; the Windows build is the part 
 2. Double-click it. If Windows shows a blue warning, click **More info**, then **Run anyway**.
 3. Type a nickname, email, phone or website and press **Enter**.
 
-Step-by-step pictures are in the [README](https://github.com/vaishantsah/watson-AI-osint-all-in-one#install-in-2-minutes). Website: [watsonfind.icu](https://watsonfind.icu).
+Step-by-step pictures are in the [README](README.md#how-it-works). Website: [watsonfind.icu](https://watsonfind.icu).
 
 ### What's new
 
@@ -20,7 +20,7 @@ Step-by-step pictures are in the [README](https://github.com/vaishantsah/watson-
 - **Fewer false positives** — the identity score ignores accounts whose only match is a shared avatar.
 - **Smaller download checks** — the download page and the release now carry the same SHA-256, so you can verify the file you got.
 
-Full list: [CHANGELOG.md](https://github.com/vaishantsah/watson-AI-osint-all-in-one/blob/main/CHANGELOG.md).
+Full list: [CHANGELOG.md](CHANGELOG.md).
 
 ### Checksums
 
